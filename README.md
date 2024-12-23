@@ -1,6 +1,6 @@
 # manga-ocr-translation
 
-A personal project to automate the translation and subsequent typesetting with photoshop of manga comics. Made in `Tkinter`. Uses [manga-ocr](https://github.com/kha-white/manga-ocr/issues) for character recognition, and the [DeepL Python API](https://www.deepl.com/translator) for translation.
+A personal project to automate the translation and subsequent typesetting with photoshop of manga comics. Made in `Tkinter`. Uses [manga-ocr](https://github.com/kha-white/manga-ocr) for character recognition, and the [DeepL Python API](https://www.deepl.com/translator) for translation.
 Note: this was not written with sharing in mind, so setup is not straightforward.
 An example of its use:
 
